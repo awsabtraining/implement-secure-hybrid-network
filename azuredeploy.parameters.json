@@ -3,10 +3,10 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
       "mocOnPremResourceGroup": {
-        "value": "clickclaims-production-centralus-mock"
+        "value": "cc-production-centralus-mock"
       },
       "azureNetworkResourceGroup": {
-        "value": "clickclaims-production-centralus-network-mock"
+        "value": "cc-production-centralus-network-mock"
       },
       "adminUserName": {
         "value": "eclaimsadmin"
